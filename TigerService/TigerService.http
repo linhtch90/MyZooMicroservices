@@ -1,6 +1,0 @@
-@TigerService_HostAddress = http://localhost:5016
-
-GET {{TigerService_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

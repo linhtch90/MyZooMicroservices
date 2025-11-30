@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TigerService", "TigerService\TigerService.csproj", "{F4216CA2-DE35-486D-A516-0B294BBEFA96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LionService", "LionService\LionService.csproj", "{B198862B-F8B1-429D-8E78-3156C5EDB42F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F4216CA2-DE35-486D-A516-0B294BBEFA96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F4216CA2-DE35-486D-A516-0B294BBEFA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F4216CA2-DE35-486D-A516-0B294BBEFA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F4216CA2-DE35-486D-A516-0B294BBEFA96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B198862B-F8B1-429D-8E78-3156C5EDB42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B198862B-F8B1-429D-8E78-3156C5EDB42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B198862B-F8B1-429D-8E78-3156C5EDB42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B198862B-F8B1-429D-8E78-3156C5EDB42F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
