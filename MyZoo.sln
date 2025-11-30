@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LionService", "LionService\LionService.csproj", "{B198862B-F8B1-429D-8E78-3156C5EDB42F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BearService", "BearService\BearService.csproj", "{EAD3A3B8-ADBB-4BF6-95C7-929ECB77A50A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{B198862B-F8B1-429D-8E78-3156C5EDB42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B198862B-F8B1-429D-8E78-3156C5EDB42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B198862B-F8B1-429D-8E78-3156C5EDB42F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD3A3B8-ADBB-4BF6-95C7-929ECB77A50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD3A3B8-ADBB-4BF6-95C7-929ECB77A50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD3A3B8-ADBB-4BF6-95C7-929ECB77A50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD3A3B8-ADBB-4BF6-95C7-929ECB77A50A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

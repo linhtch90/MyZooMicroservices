@@ -1,10 +1,9 @@
-﻿using LionService.Model;
-using Microsoft.AspNetCore.Http.HttpResults;
+﻿using BearService.Model;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LionService.Controller;
+namespace BearService.Controller;
 
-[Route("api/lion/basic")]
+[Route("api/bear/basic")]
 [ApiController]
 public class BasicActivityController: ControllerBase
 {
@@ -13,8 +12,8 @@ public class BasicActivityController: ControllerBase
     {
         return Ok(new BasicResponseDto()
         {
-            ServiceName = "Lion",
-            Message = "Hello Lion service",
+            Name = "Luna the bear",
+            Description = "This is not a panda",
         });
     }
 }
